@@ -1,1 +1,1 @@
-First C programming readme file
+More Pointers, Arrays and String
